@@ -1,0 +1,20 @@
+/* src/styles.css */
+.weather-container {
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .weather-container h2 {
+    font-size: 24px;
+  }
+  
+  .weather-container p {
+    font-size: 18px;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  

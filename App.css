@@ -1,0 +1,22 @@
+/* src/App.css */
+.header {
+  background-color: #282c34;
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
+
+.weather-container {
+  background-color: #f0f8ff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
